@@ -27,9 +27,9 @@ public class Task6 {
 
                 i = 0;
 
-                while () {
+                /*while () {
 
-                }
+                }*/
             }
 
             i++;
